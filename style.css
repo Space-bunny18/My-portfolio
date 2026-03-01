@@ -3,7 +3,6 @@ html{
     scroll-behavior: smooth;
 }
 body {
-  align-items: center;
   margin: 0;
   background: radial-gradient(
       circle at 20% 30%,
